@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Castlevania Wiki](https://github.com/Karl0s83/Castlevaniasotn)
 
-- 🌱 I’m currently learning **FullStack on https://thepower.education**
+- 🌱 I’m currently learning **FullStack on https://thepower.education & PHP/MySQL**
 
 - 📫 How to reach me **estikarlos@gmail.com**
 
