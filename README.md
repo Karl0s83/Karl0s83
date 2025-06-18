@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">A passionate Dev from Spain, with a kitty "Tofu"</h3>
+<h3 align="center">A passionate Dev from Spain</h3>
 
 - 🌱 I’m currently learning **PHP and JS**
 
