@@ -1,14 +1,70 @@
-<h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">A passionate Dev from Spain</h3>
-
-- 🌱 I’m currently learning **PHP and JS**
-
-- 📫 How to reach me **estikarlos@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/carlos escribano tiñena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos escribano tiñena" height="30" width="40" /></a>
+<h1 align="center">Hey, I'm Karlos 👋</h1>
+<p align="center">
+  🚀 Passionate about development, AI, and tech creativity<br>
+  🎨 Blending code, design, and a bit of madness with purpose
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+---
+
+### 🧠 About Me
+
+- 🎯 Constant explorer of new ideas and tech
+- 📦 I love prototyping useful (or absurdly creative) things
+- ⚙️ Self-taught developer in continuous learning
+- 🧰 Always automating and building personal tools
+- 🧪 Experimental projects with AI, games, and more
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,react,tailwind,git,github,vscode,linux" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KarlosEs&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KarlosEs&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🚧 Projects In Progress
+
+- 🧿 **MonsterDex SOTN** — Retro-style enemy encyclopedia
+- 🔐 **NFC Keychains** — Maker project with 3D printing + NFC chips
+- 🎲 **AI D&D Narrator** — A wild experiment for AI Dungeon Master
+- 🐍 **Python Snippets** — Daily automations and helpful tools
+
+---
+
+### ✨ Fun Facts
+
+- 🦉 Obsessed with owls
+- 🕹️ Retro games are my comfort zone
+- 💬 I invent characters and stories for fun
+- 🧪 I might mix AI + RPG + storytelling into an app someday…
+
+---
+
+### 📫 Get in Touch
+
+<!-- Uncomment if you want to add contact links -->
+
+<!--
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+-->
+
+> 💡 *I break things, build them again, and learn in the process.*
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+tech+universe+💻;Fan+of+weird+projects+🎲;Passionate+about+building+my+own+stuff+⚙️&center=true&size=18">
+</p>
