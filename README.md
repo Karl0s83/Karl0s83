@@ -36,10 +36,11 @@
 
 ### 🚧 Projects In Progress
 
+- 📂 [Organize Downloads](https://github.com/Karl0s83/organize_downloads) — A simple Windows batch script to automatically organize files in your Downloads folder by type.
 - 🧿 [MonsterDex SOTN](https://github.com/Karl0s83/Castlevaniasotn) — Retro-style enemy encyclopedia for the game *Castlevania: Symphony of the Night*.
 - 🎲 **AI D&D Narrator** — A wild experiment for AI Dungeon Master
 - 🐍 **Python Snippets** — Daily automations and helpful tools
-- 📂 [Organize Downloads](https://github.com/Karl0s83/organize_downloads) — A simple Windows batch script to automatically organize files in your Downloads folder by type.
+
 
 ---
 
