@@ -4,14 +4,6 @@
   🎨 Blending code, design, and a bit of madness with purpose
 </p>
 
-<p align="center">
-  🔹 <a href="#about-me">About Me</a> &nbsp;|&nbsp;
-  🛠️ <a href="#tech-stack--tools">Tech Stack & Tools</a> &nbsp;|&nbsp;
-  🚧 <a href="#projects-in-progress">Projects In Progress</a> &nbsp;|&nbsp;
-  ✨ <a href="#fun-facts">Fun Facts</a> &nbsp;|&nbsp;
-  📫 <a href="#get-in-touch">Get in Touch</a>
-</p>
-
 ---
 
 ### 🧠 About Me
