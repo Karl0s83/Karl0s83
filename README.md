@@ -36,7 +36,7 @@
 
 ### 🚧 Projects In Progress
 
-- 🧿 [MonsterDex SOTN](https://github.com/Karl0s83/Castlevaniasotn) — Retro-style enemy encyclopedia
+- 🧿 [MonsterDex SOTN](https://github.com/Karl0s83/Castlevaniasotn) — Retro-style enemy encyclopedia for the game *Castlevania: Symphony of the Night*.
 - 🎲 **AI D&D Narrator** — A wild experiment for AI Dungeon Master
 - 🐍 **Python Snippets** — Daily automations and helpful tools
 
@@ -44,19 +44,19 @@
 
 ### ✨ Fun Facts
 
+- 🤝 I love connecting with people — whether it's through code, ideas, or teamwork. I believe empathy and collaboration are key to building amazing things.
 - 🦉 Obsessed with owls
 - 🕹️ Retro games are my comfort zone
-- 💬 I invent characters and stories for fun
 - 🧪 I might mix AI + RPG + storytelling into an app someday…
-- 🤝 I love connecting with people — whether it's through code, ideas, or teamwork. I believe empathy and collaboration are key to building amazing things.
+
 
 ---
 
 ### 📫 Get in Touch
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-escribano-ti%C3%B1ena/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:estikarlos@gmail.com)
 
 > 💡 *I break things, build them again, and learn in the process.*
 
