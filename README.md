@@ -4,6 +4,14 @@
   🎨 Blending code, design, and a bit of madness with purpose
 </p>
 
+<p align="center">
+  🔹 <a href="#about-me">About Me</a> &nbsp;|&nbsp;
+  🛠️ <a href="#tech-stack--tools">Tech Stack & Tools</a> &nbsp;|&nbsp;
+  🚧 <a href="#projects-in-progress">Projects In Progress</a> &nbsp;|&nbsp;
+  ✨ <a href="#fun-facts">Fun Facts</a> &nbsp;|&nbsp;
+  📫 <a href="#get-in-touch">Get in Touch</a>
+</p>
+
 ---
 
 ### 🧠 About Me
@@ -23,16 +31,6 @@
 </p>
 
 ---
-<!--
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karl0s83&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Karl0s83&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
--->
----
 
 ### 🚧 Projects In Progress
 
@@ -40,7 +38,6 @@
 - 🧿 [MonsterDex SOTN](https://github.com/Karl0s83/Castlevaniasotn) — Retro-style enemy encyclopedia for the game *Castlevania: Symphony of the Night*.
 - 🎲 **AI D&D Narrator** — A wild experiment for AI Dungeon Master
 - 🐍 **Python Snippets** — Daily automations and helpful tools
-
 
 ---
 
@@ -51,11 +48,9 @@
 - 🕹️ Retro games are my comfort zone
 - 🧪 I might mix AI + RPG + storytelling into an app someday…
 
-
 ---
 
 ### 📫 Get in Touch
-
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-escribano-ti%C3%B1ena/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:estikarlos@gmail.com)
