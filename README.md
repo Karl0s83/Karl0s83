@@ -65,5 +65,5 @@
 ---
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+The+best+way+to+predict+the+future;+is+to+create+it+yourself." alt="Typing SVG" /></a>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F+The+best+way+to+predict+the+future;+is+to+create+it+yourself.)](https://git.io/typing-svg)
 </p>
