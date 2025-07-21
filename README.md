@@ -66,5 +66,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+tech+universe+💻;Fan+of+weird+projects+🎲;Passionate+about+building+my+own+stuff+⚙️&center=true&size=18">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%A7%99+La+mejor+forma+de+predecir+el+futuro+es+crearlo+t%C3%BA+mismo." alt="Typing SVG" /></a>
 </p>
