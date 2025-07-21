@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Karlos 👋</h1>
+<h1 align="center">Hey, I'm Carlos 👋</h1>
 <p align="center">
   🚀 Passionate about development, AI, and tech creativity<br>
   🎨 Blending code, design, and a bit of madness with purpose
@@ -23,7 +23,7 @@
 </p>
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -31,12 +31,12 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Karl0s83&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
-
+-->
 ---
 
 ### 🚧 Projects In Progress
 
-- 🧿 **MonsterDex SOTN** — Retro-style enemy encyclopedia 
+- 🧿 **[url=https://github.com/Karl0s83/Castlevaniasotn]MonsterDex SOTN[/url]** — Retro-style enemy encyclopedia 
 - 🎲 **AI D&D Narrator** — A wild experiment for AI Dungeon Master
 - 🐍 **Python Snippets** — Daily automations and helpful tools
 
