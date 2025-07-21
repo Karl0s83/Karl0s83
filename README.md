@@ -36,7 +36,7 @@
 
 ### 🚧 Projects In Progress
 
-- 🧿 **[url=https://github.com/Karl0s83/Castlevaniasotn]MonsterDex SOTN[/url]** — Retro-style enemy encyclopedia 
+- 🧿 [MonsterDex SOTN](https://github.com/Karl0s83/Castlevaniasotn) — Retro-style enemy encyclopedia
 - 🎲 **AI D&D Narrator** — A wild experiment for AI Dungeon Master
 - 🐍 **Python Snippets** — Daily automations and helpful tools
 
